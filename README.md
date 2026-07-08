@@ -12,6 +12,7 @@
 - MySQL
 - Redis
 - REST APIs
+- Mongodb
 
 ### Projects
 🏥 Hospital Management System  
