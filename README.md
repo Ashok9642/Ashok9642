@@ -124,13 +124,6 @@ Features:
 </a>
 
 &nbsp;
-
-<a href="boinpallyashokgoud@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-
-</a>
-
 </p>
 
 
