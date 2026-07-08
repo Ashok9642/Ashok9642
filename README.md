@@ -101,49 +101,6 @@ Features:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashok9642&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Ashok9642&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok9642&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ashok9642&theme=tokyonight&no-frame=true&margin-w=10" />
-
-</p>
-
-
----
 
 # 📈 GitHub Activity
 
@@ -160,7 +117,7 @@ Features:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ashokgoud-boinpally-9671301a4/">
 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 
