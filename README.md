@@ -10,13 +10,9 @@
   Building scalable and secure web applications with modern technologies
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;REST+API+Developer;Backend+Architecture+Enthusiast" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashok9642&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
+
 
 
 ---
