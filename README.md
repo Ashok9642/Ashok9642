@@ -10,9 +10,7 @@
   Building scalable, secure and high-performance web applications
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashok9642&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
 
 ---
 
