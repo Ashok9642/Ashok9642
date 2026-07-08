@@ -3,59 +3,57 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | React.js | Node.js | Express.js | MySQL
+  🚀 Full Stack Developer | React.js | Node.js | Express.js | MySQL | MongoDB
 </h3>
 
 <p align="center">
-  Building scalable and secure web applications with modern technologies
+  Building scalable, secure and high-performance web applications
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashok9642&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-💼 Full Stack Developer with **4 years of experience** in designing and developing enterprise web applications.
+💼 Full Stack Developer with **4 years of experience** in designing, developing, and maintaining scalable enterprise applications.
 
-🔹 Experienced in building scalable applications using:
+I specialize in building modern web applications using:
 
 - ⚛️ React.js
 - 🟢 Node.js
 - 🚀 Express.js
 - 🗄️ MySQL
+- 🍃 MongoDB
 - 🔐 JWT Authentication
-- 🔌 REST APIs
+- 🔌 RESTful APIs
 
-💡 Passionate about:
+### My Interests:
 
 - Backend Architecture
-- API Optimization
-- Database Design
+- API Design
+- Database Optimization
 - System Design
 - Performance Improvement
-
+- Scalable Application Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,typescript,mysql,redis,html,css,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,javascript,typescript,mysql,mongodb,redis,html,css,tailwind,bootstrap,git,github,vscode" />
 
 </p>
 
-
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
 **Tech Stack:** React.js | Node.js | Express.js | MongoDB
 
@@ -67,11 +65,12 @@ Features:
 ✅ Appointment Scheduling  
 ✅ REST API Integration  
 ✅ Secure Data Handling  
+✅ Database Management  
 
 
 ---
 
-### 📱 SMPP SMS Gateway Integration
+## 📱 SMPP SMS Gateway Integration
 
 **Tech Stack:** Node.js | SMPP Protocol | MySQL | React.js
 
@@ -82,12 +81,13 @@ Features:
 ✅ Delivery Reports (DLR)  
 ✅ Retry Mechanism  
 ✅ Auto Reconnect Logic  
-✅ Message Tracking & Logging  
+✅ Message Tracking  
+✅ Database Logging  
 
 
 ---
 
-### 👨‍💼 Workforce HRMS Platform
+## 👨‍💼 Workforce HRMS Platform
 
 **Tech Stack:** React.js | Node.js | Express.js | MySQL
 
@@ -97,7 +97,8 @@ Features:
 ✅ Timesheet Management  
 ✅ Secure Document Upload  
 ✅ Audit Logging  
-✅ API Performance Optimization  
+✅ REST API Development  
+✅ Query Optimization  
 
 
 ---
@@ -106,7 +107,7 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashok9642&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ashok9642&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -117,7 +118,7 @@ Features:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ashok9642&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ashok9642&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -128,37 +129,50 @@ Features:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok9642&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok9642&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashok9642&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ashok9642&theme=tokyonight&no-frame=true&margin-w=10" />
 
 </p>
 
 
 ---
 
-## 🤝 Connect With Me
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashok9642&theme=tokyo-night" />
+
+</p>
+
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 
 </a>
 
+&nbsp;
+
 <a href="YOUR_EMAIL">
 
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 
 </a>
 
@@ -167,9 +181,14 @@ Features:
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
-```text
-💻 I love turning ideas into scalable applications.
-🚀 Always learning new technologies.
-🔥 Building better code every day.
+```
+💻 Turning ideas into scalable applications
+🚀 Always learning new technologies
+🔥 Writing clean and maintainable code
+```
+
+---
+
+⭐ From [Ashok9642](https://github.com/Ashok9642)
